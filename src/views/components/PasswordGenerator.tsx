@@ -1,4 +1,3 @@
-// @ts-nocheck
 const PasswordGenerator = () => {
   return (
     <section class="flex flex-col gap-4">
